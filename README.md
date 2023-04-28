@@ -24,6 +24,8 @@ I love solution oriented, communication driven teams that empower people and sup
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nelson00011&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Projects:
 - **[Nautical Tours](https://github.com/Nelson00011/NauticalTours)** | Tourism Website - Python, Flask, Jinja, Bootstraps, Javascript, PostgresSQl, Bcrypt, Twilio, Sendgrid, GoogleMaps API
 - **[React Articles](https://github.com/Nelson00011/SandBox)** | Articles on Software - React.js, Javascript, Node.js, Express.js, MongoDB *in-progress*
@@ -46,6 +48,8 @@ Favorite authors include: Nick Hornby, Kazuo Ishiguro, Douglas Adams, Joyce Caro
 <p align="center">
 -Benjamin Franklin
 </p>
+
+
 
 
 <!--
