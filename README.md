@@ -45,9 +45,7 @@ I love solution oriented, communication driven teams that empower people and sup
 <p align="center"><em>
   "With enough time, commitment, and patience you can learn anything."
 </em></p>
-<p align="center">
-- Unknown
-</p>
+
 
 
 
