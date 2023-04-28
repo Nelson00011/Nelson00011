@@ -1,6 +1,6 @@
 # Nelson's Github
-I am a fullstack software engineer, graduate of [Hackbright](https://hackbrightacademy.com/) Coding Boot Camp (March 2023). 
-As a developer, I enjoy applications that use a clean aesthetic to improve user functionality. 
+I am a fullstack software engineer, graduate of [Hackbright](https://hackbrightacademy.com/) Coding Boot Camp (*March 2023*). 
+As a web developer, I enjoy applications that use a clean aesthetic to improve user functionality. 
 I love solution oriented, communication driven teams that empower people and support diversity. 
 
 
