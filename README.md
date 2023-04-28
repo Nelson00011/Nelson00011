@@ -65,4 +65,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+rewards for improved performance work better than punishment of mistakes. This proposition is supported by much evidence from research on pigeon
+Thinking Fast & Slow 
+Daniel Kahneman
+https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow
 -->
