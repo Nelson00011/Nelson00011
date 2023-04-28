@@ -34,19 +34,19 @@ I love solution oriented, communication driven teams that empower people and sup
 
 ## Interests:
 - **Nature:** Hiking, bouldering, beachvolleyball, swimming out to the bouy's, snorkeling, finding waterfalls to explore. 
-Gardening is just an excuse to get your hands dirty & actually eat the fruits of your labor. 
+*Gardening is just an excuse to get your hands dirty & actually eat the fruits of your labor.* 
 - **Reading:** Love books that makes me laugh, cry, snort, catch my breath & read twice. 
-Favorite authors include: Nick Hornby, Kazuo Ishiguro, Douglas Adams, Joyce Carol Oates, Jean Auel, Richard Clarke, Malcolm Gladwell, Richard Thaler.
+***Favorite authors include:*** *Nick Hornby, Kazuo Ishiguro, Douglas Adams, Joyce Carol Oates, Jean Auel, Richard Clarke, Malcolm Gladwell, Richard Thaler.*
 - **Personal Projects**: I attempt to sew periodically, mostly throw pillows. 
 *Occasionally* try to make things that ressemble furniture.
 - **Additional**: Woman Who Code, Hackbright Alumni, Woman in STEM, Amnesty International, [ColorCode](https://www.colorcode.io/)
 
 ---------------------------------------
 <p align="center"><em>
-  "Tell me and I forget. Teach me and I remember. Involve me and I learn."
+  "With enough time, commitment, and patience you can learn anything."
 </em></p>
 <p align="center">
--Benjamin Franklin
+- Unknown
 </p>
 
 
