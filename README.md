@@ -31,9 +31,9 @@ I love solution oriented, communication driven teams that empower people and sup
 
 ## Projects:
 - **[Nautical Tours](https://github.com/Nelson00011/NauticalTours)** | Tourism Website - Python, Flask, Jinja, Bootstraps, Javascript, PostgresSQl, Bcrypt, Twilio, Sendgrid, GoogleMaps API
-- **[BoHo Bag](https://github.com/Nelson00011/boho)** | Bohemian Ecommerce application - React.js, Stripe, Formik, MUI, Strapi.js, Node.js *in-progress*
-- **[React Articles](https://github.com/Nelson00011/SandBox)** | Articles on Software - React.js, Javascript, Node.js, Express.js, MongoDB *in-progress*
+- **[BoHo Bag](https://github.com/Nelson00011/boho)** | Bohemian Ecommerce application - React.js, Stripe, Formik, Material UI, Strapi.js, Node.js *in-progress*
 - **[Event Tracker](https://github.com/Nelson00011/EventsMulti)** | Events to Explore - React.js, bycrypt, JSONwebtoken, Firebase, Node.js, Express.js *in-progress*
+- **[React Articles](https://github.com/Nelson00011/SandBox)** | Articles on Software - React.js, Javascript, Node.js, Express.js, MongoDB *in-progress*
 - **[Social Meetups](https://github.com/Nelson00011/SocialApp)** | Social Meetup application - Next.js, MongoDB, React.js *in-progress*
 
 
