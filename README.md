@@ -5,7 +5,6 @@ As a web developer, I enjoy applications that use a clean aesthetic to improve u
 I love solution oriented, communication driven teams that empower people and support diversity. 
 
 
-
 ### Tech Stack:
 <!-- BASIC -->
 ![html5](https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
@@ -50,9 +49,6 @@ I love solution oriented, communication driven teams that empower people and sup
 <p align="center"><em>
   "With enough time, commitment, and patience you can learn anything."
 </em></p>
-
-
-
 
 
 <!--
