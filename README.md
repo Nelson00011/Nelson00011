@@ -43,7 +43,7 @@ I love solution oriented, communication driven teams that empower people and sup
 ***Favorite authors include:*** *Nick Hornby, Kazuo Ishiguro, Douglas Adams, Joyce Carol Oates, Jean Auel, Richard Clarke, Malcolm Gladwell, Richard Thaler.*
 - **Personal Projects**: I attempt to sew periodically, mostly throw pillows. 
 *Occasionally* try to make things that ressemble furniture.
-- **Additional**: Woman Who Code, Hackbright Alumni, Woman in STEM, Amnesty International, [ColorCode](https://www.colorcode.io/)
+- **Additional**: Woman Who Code, Hackbright Alumni, Woman in STEM, [Amnesty International](https://donate.amnestyusa.org/page/119602/donate/1?ea.tracking.id=MRPaidSearchFR2023&supporter.appealCode=W23XXADEVR0P&en_og_source=W23XXADEVR0P&gad=1&gclid=CjwKCAjw36GjBhAkEiwAKwIWycgySFX3RFPv9cUTkEksRJFYOgS14jWdkNW7CJ6UgnuW-U7o0ibX8RoCR-UQAvD_BwE&gclsrc=aw.ds), [ColorCode](https://www.colorcode.io/)
 
 ---------------------------------------
 <p align="center"><em>
