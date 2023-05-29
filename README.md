@@ -1,7 +1,7 @@
 <h1 align="center">Nelson's Github</h1>
 
 I am an Associate Fullstack Software Engineer, graduate of [Hackbright](https://hackbrightacademy.com/) Coding Bootcamp (*March 2023*). 
-As a software developer, I enjoy applications that use a clean aesthetic to improve user functionality. 
+As a junior software developer, I enjoy applications that use a clean aesthetic to improve user functionality. 
 I love solution oriented, communication driven teams that empower people and support diversity. 
 
 
