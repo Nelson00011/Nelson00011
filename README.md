@@ -2,7 +2,7 @@
 
 I am a Fullstack Software Engineer, graduate of [Hackbright](https://hackbrightacademy.com/) Coding Bootcamp (*March 2023*). 
 As a junior software developer, I enjoy applications that use a clean aesthetic to improve user functionality. 
-I love solution oriented, communication driven teams that empower people and support diversity. 
+I love solution oriented, communication driven teams that empower group members and support diversity. I value a growth mind set that drives improvement spiritually, emotionally, physically and mentally.
 
 
 ### Tech Stack:
