@@ -1,6 +1,6 @@
 <h1 align="center">Nelson's Github</h1>
 
-I am a Fullstack Software Engineer, graduate of [Hackbright](https://hackbrightacademy.com/) Coding Bootcamp (*March 2023*). My background in science taught me how to be creative with problem solving and resourceful when in a time crunch. As a junior software developer, I enjoy applications that use a clean aesthetic to enhance user experience. I love solution oriented, communication driven teams that empower group members and support diversity. I value a growth mindset that drives improvement spiritually, emotionally, physically and mentally everyday. 
+I am a Junior Fullstack Software Engineer, graduate of [Hackbright](https://hackbrightacademy.com/) Coding Bootcamp (*March 2023*). My background in science taught me how to be creative with problem solving and resourceful when in a time crunch. As a junior software developer, I enjoy applications that use a clean aesthetic to enhance user experience. I love solution oriented, communication driven teams that empower group members and support diversity. I value a growth mindset that drives improvement spiritually, emotionally, physically and mentally everyday.
 
 
 ### Tech Stack:
