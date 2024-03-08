@@ -37,10 +37,9 @@ I am a Junior Fullstack Software Engineer, graduate of [Hackbright](https://hack
 ## Projects:
 - **[Nautical Tours](https://github.com/Nelson00011/NauticalTours)** | Tourism Website - Python, Flask, Jinja, Bootstraps, Javascript, PostgresSQl, Bcrypt, Twilio, Sendgrid, GoogleMaps API
 - **[BoHo Bag](https://github.com/Nelson00011/boho)** | Bohemian Ecommerce application - React.js, Stripe, Formik, Material UI, Strapi.js, Node.js 
-- **[Event Tracker](https://github.com/Nelson00011/EventsMulti)** | Events to Explore - React.js, bycrypt, JSONwebtoken, Firebase, Node.js, Express.js --*in-progress*
-- **[React Articles](https://github.com/Nelson00011/SandBox)** | Articles on Software - React.js, Javascript, Node.js, Express.js, MongoDB --*in-progress*
-- **[Social Meetups](https://github.com/Nelson00011/SocialApp)** | Social Meetup application - Next.js, MongoDB, React.js --*in-progress*
-
+- **[Event Tracker](https://github.com/Nelson00011/EventsMulti)** | Events to Explore - React.js, bycrypt, JSONwebtoken, Firebase, Node.js, Express.js
+- **[React Articles](https://github.com/Nelson00011/SandBox)** | Articles on Software - React.js, Javascript, Node.js, Express.js, MongoDB 
+- **[Social Meetups](https://github.com/Nelson00011/SocialApp)** | Social Meetup application - Next.js, MongoDB, React.js 
 
 ## Interests:
 - **Nature:** Hiking, bouldering, beachvolleyball, swimming out to the bouy's, snorkeling, finding waterfalls to explore. 
