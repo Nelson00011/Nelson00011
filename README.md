@@ -1,6 +1,6 @@
 <h1 align="center">Nelson's Github</h1>
 
-I am a Junior Fullstack Software Engineer, graduate of [Hackbright](https://hackbrightacademy.com/) Coding Academy (*March 2023*). My background in science taught me to find creative solutions and be resourceful when in a time crunch. As a junior software developer, I enjoy applications that use a clean aesthetic to enhance user experience. I love solution oriented, results focused, communication driven teams that empower group members and support diversity.
+I am a Fullstack Software Engineer, graduate of [Hackbright](https://hackbrightacademy.com/) Coding Academy (*March 2023*). My background in science taught me to find creative solutions and be resourceful when in a time crunch. As a software developer, I enjoy applications that use a clean aesthetic to enhance user experience. I love solution oriented, results focused, communication driven teams that empower group members and support diversity.
 
 
 ##### WORK STATUS: Free-lancing - Open to Permanent Position
