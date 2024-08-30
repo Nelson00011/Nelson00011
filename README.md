@@ -59,6 +59,9 @@ I am a Software Engineer, graduate of [Hackbright](https://hackbrightacademy.com
 <!--
 **Nelson00011/Nelson00011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+ADDITIONAL STICKERS HERE
+https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-ide-
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
