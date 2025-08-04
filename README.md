@@ -1,9 +1,9 @@
 <h1 align="center">Nelson's Github</h1>
 
-I am a Software Engineer, graduate of [Hackbright](https://hackbrightacademy.com/) Coding Academy (*March 2023*). My background in science taught me to find creative solutions and be resourceful when in a time crunch. As a software developer, I enjoy applications that use a clean aesthetic to enhance user experience and engagement. I love solution oriented, results focused, communication driven teams that empower group members and support diversity.
+I am a Software Engineer, graduate of [Hackbright](https://hackbrightacademy.com/) Coding Academy (*March 2023*). My background in science taught me to find creative solutions in highly technical fields and be resourceful when there is limited time or strict deadlines. As a software developer, I enjoy applications that use a clean aesthetic to enhance user experience and engagement. I love solution oriented, results focused, communication driven teams that empower group members and support diversity.
 
 
-##### WORK STATUS: Free-lancing
+##### WORK STATUS: Free-lancing / Open to Work
 
 ### Tech Stack:
 <!-- BASIC -->
@@ -48,7 +48,7 @@ I am a Software Engineer, graduate of [Hackbright](https://hackbrightacademy.com
 ***Favorite authors include:*** *Nick Hornby, Kazuo Ishiguro, Douglas Adams, Joyce Carol Oates, Jean Auel, Richard Clarke, Malcolm Gladwell, Richard Thaler.*
 - **Personal Projects**: I attempt to sew periodically, mostly throw pillows. 
 *Occasionally* try to make things that ressemble furniture.
-- **Additional**: Woman Who Code, Hackbright Alumni, Woman in STEM, [Amnesty International](https://donate.amnestyusa.org/page/119602/donate/1?ea.tracking.id=MRPaidSearchFR2023&supporter.appealCode=W23XXADEVR0P&en_og_source=W23XXADEVR0P&gad=1&gclid=CjwKCAjw36GjBhAkEiwAKwIWycgySFX3RFPv9cUTkEksRJFYOgS14jWdkNW7CJ6UgnuW-U7o0ibX8RoCR-UQAvD_BwE&gclsrc=aw.ds), [ColorCode](https://www.colorcode.io/)
+- **Additional**: [Woman Who Code](https://womenwhocode.com/), Hackbright Alumni, [Woman in Technology](https://www.womenintechnology.org/), Woman in STEM, [Amnesty International](https://donate.amnestyusa.org/page/119602/donate/1?ea.tracking.id=MRPaidSearchFR2023&supporter.appealCode=W23XXADEVR0P&en_og_source=W23XXADEVR0P&gad=1&gclid=CjwKCAjw36GjBhAkEiwAKwIWycgySFX3RFPv9cUTkEksRJFYOgS14jWdkNW7CJ6UgnuW-U7o0ibX8RoCR-UQAvD_BwE&gclsrc=aw.ds), [ColorCode](https://www.colorcode.io/), [PyBay 2025](https://pybay.org/about/)
 
 ---------------------------------------
 <p align="center"><em>
