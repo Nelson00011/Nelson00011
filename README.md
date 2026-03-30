@@ -46,8 +46,9 @@ I am a Software Engineer, graduate of [Hackbright](https://hackbrightacademy.com
 *Gardening is just an excuse to get your hands dirty & actually eat the fruits of your labor.* 
 - **Reading:** Love books that makes me laugh, cry, snort, catch my breath & read twice. 
 ***Favorite authors include:*** *Nick Hornby, Kazuo Ishiguro, Douglas Adams, Joyce Carol Oates, Jean Auel, Richard Clarke, Malcolm Gladwell, Richard Thaler.*
-- **Personal Projects**: I attempt to sew periodically, mostly throw pillows. 
-*Occasionally* try to make things that ressemble furniture.
+- **Personal Projects**: I attempt to sew periodically, mostly throw pillows. *Occasionally* try to make things that ressemble furniture.
+- **Cyber Security Hacking Fun**: I occasionally give hacker reviews for niche skills: trackers, artistic linking between songs / street art / moving signs, "ACE GRADING", etc...
+ Varying degree's of inspiration for personal novels / novella's (described most thoroughly in the restaruant scene).
 - **Additional**: [Woman Who Code](https://womenwhocode.com/), Hackbright Alumni, [Woman in Technology](https://www.womenintechnology.org/), Woman in STEM, [Amnesty International](https://donate.amnestyusa.org/page/119602/donate/1?ea.tracking.id=MRPaidSearchFR2023&supporter.appealCode=W23XXADEVR0P&en_og_source=W23XXADEVR0P&gad=1&gclid=CjwKCAjw36GjBhAkEiwAKwIWycgySFX3RFPv9cUTkEksRJFYOgS14jWdkNW7CJ6UgnuW-U7o0ibX8RoCR-UQAvD_BwE&gclsrc=aw.ds), [ColorCode](https://www.colorcode.io/), [PyBay 2025](https://pybay.org/about/)
 
 ---------------------------------------
