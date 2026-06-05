@@ -58,6 +58,7 @@ I am a Software Engineer, graduate of [Hackbright](https://hackbrightacademy.com
 
 
 <!--
+SQL: SQLAlchemy, SQLite, PostGreSQL, 
 **Nelson00011/Nelson00011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ADDITIONAL STICKERS HERE
